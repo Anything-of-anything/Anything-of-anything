@@ -7,5 +7,7 @@ Our goal is to develop an AI model that can handle anything, regardless of its n
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGi0I9dHS_FFvwyZtBQuk-RZGSkFP8Yxor8Q&usqp=CAU" alt="Sublime's custom image"/>
 </p>
 
-@NUS-LVLAB
 
+<p align="center">
+  <b>@NUS-LVLAB</b>
+</p>
